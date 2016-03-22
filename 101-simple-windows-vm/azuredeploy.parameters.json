@@ -9,10 +9,16 @@
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
       "value": "myDnsName"
+    },
+    "localtion" : {
+      "value" : "west US"
+    },
+    "sizeOfDiskInGB" : {
+      "value" : "20"
     }
   }
 }
